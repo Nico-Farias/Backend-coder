@@ -126,18 +126,10 @@ const test = async () => {
     
     */
 
+
     //MOSTRAR TODOS LOS PRODUCTOS
+    //console.log('DESDE TODOS LOS PRODUCTOS)
     //await productManager.getProducs();
-
-
-
-
-
-    //ELIMINAR UN PRODUCTO
-
-    //await productManager.getEliminarProducto(2);
-
-
 
 
     //BUSCAR POR ID
@@ -146,7 +138,15 @@ const test = async () => {
 
 
 
+    //ELIMINAR UN PRODUCTO
+    //console.log('DESDE ELIMINAR PRODUCTO)
+    //await productManager.getEliminarProducto(2);
+
+
+
+
     // ACTUALIZAR PRODUCTO
+    //console.log('DESDE ACTUALIZAR PRODUCTO)
     // await productManager.updateProducts(4, 'editado ', 'product editado ', 5000, '')
 
 
