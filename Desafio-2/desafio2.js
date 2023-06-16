@@ -119,12 +119,12 @@ const productManager = new ProductManager('./products.json');
 const test = async () => {
 
     //AGREGAR PRODUCTO
-    /*
+    
         await productManager.addProduct('camiseta', 'Camiseta de argentina', 32000, 'https://www.camiseta.com.br/wp-content/uploads/2020/03/camiseta-de-carne-1.jpg');
         await productManager.addProduct('pantalon de futbol', 'pantalon de futbol', 5000, 'https://www.camiseta.com.br/wp-content/uploads/2020/03/camiseta-de-carne-1.jpg');
         await productManager.addProduct('pantalon trabajo', 'pantalon largo cargo', 10000, 'https://www.camiseta.com.br/wp-content/uploads/2020/03/camiseta-de-carne-1.jpg');
     
-    */
+    
 
 
     //MOSTRAR TODOS LOS PRODUCTOS
